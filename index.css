@@ -114,7 +114,7 @@ li {
   flex-direction: row;
   justify-content: space-between;
   align-items: baseline;
-  width: 50%;
+  width: 20%;
   padding-top: 26px;
 }
 .flexbox-titleandsubtitle-hero {
@@ -303,12 +303,17 @@ li {
   height: 156px;
   background-color: #d9d9d9;
   margin-top: 70px;
+  padding-right: 10px;
 }
 .icons-footer {
   display: flex;
   justify-content: space-between;
-  width: 20%;
+  width: 10%;
 }
 .cursor-pointer-contact {
   cursor: pointer;
+}
+
+a {
+  color: #1e1e1e;
 }
