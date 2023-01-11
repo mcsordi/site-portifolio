@@ -4,6 +4,7 @@
     <head>
       <title>Matheus Caris Sordi</title>
       <link rel="stylesheet" href="index.css" />
+      <script src="index.js"></script>
     </head>
   </head>
   <body>
@@ -13,10 +14,18 @@
           <div class="flexbox-navegation">
             <h2 class="title-navegation">Matheus Caris Sordi</h2>
             <div>
-              <a class="links-navegation">Habilidades</a>
-              <a class="links-navegation">Portifólio</a>
+              <a
+                onclick="scrollforthe('section habilities')"
+                class="links-navegation"
+                >Habilidades</a
+              >
+              <a
+                onclick="scrollforthe('section portifolio')"
+                class="links-navegation"
+                >Portifólio</a
+              >
             </div>
-            <button>CONTATO</button>
+            <button onclick="scrollforthe('section contact')">CONTATO</button>
           </div>
           <div class="flexbox-hero">
             <div class="flexbox-titleandsubtitle-hero">
@@ -29,7 +38,9 @@
                 desenvolvimento web.
               </p>
               <div>
-                <button>ENTRAR EM CONTATO</button>
+                <button onclick="scrollforthe('section contact')">
+                  ENTRAR EM CONTATO
+                </button>
               </div>
               <div class="flexbox-icons-hero">
                 <a>
@@ -60,7 +71,7 @@
             </div>
           </div>
         </section>
-        <section class="abilities-hero">
+        <section id="section habilities" class="abilities-hero">
           <h3>Habilidades que</h3>
           <h3 class="verde">domino.</h3>
           <div class="gridcard-hero">
@@ -111,7 +122,7 @@
             </div>
           </div>
         </section>
-        <section class="hero-projects">
+        <section id="section portifolio" class="hero-projects">
           <div class="title-projects">
             <h3>Portifólio</h3>
             <h3 class="verde">de projetos.</h3>
@@ -188,7 +199,7 @@
               Estou a disposição para ajudar o seu projeto ou sua <br />
               empresa.
             </p>
-            <div class="flex-contact">
+            <div id="section contact" class="flex-contact">
               <img
                 class="email-image"
                 src="icon/email.png"
