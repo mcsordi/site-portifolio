@@ -5,6 +5,7 @@ this is a my project start with HTML, CSS and JS. The main goal is create a webs
 ## Preview
 
 <img scr="https://github.com/mcsordi/site-portifolio/blob/master/preview.PNG" height="500">
+
 ## Main concepts applied
 
 -Flexbox
@@ -14,8 +15,20 @@ this is a my project start with HTML, CSS and JS. The main goal is create a webs
 
 ### Instructions to Run:
 
-1. clone the project:
+1. Clone the project:
 
 ```
 git clone https://github.com/mcsordi/site-portifolio.git
+```
+
+2. After clone the project open folder:
+
+```
+site-portifolio
+```
+
+3. Open the index file with the browser:
+
+```
+index.html
 ```
