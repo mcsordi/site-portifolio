@@ -2,9 +2,9 @@
 
 this is a my project start with HTML, CSS and JS. The main goal is create a website with my progessional information
 
-## Preview
+# Preview
 
-<img scr="preview.PNG" height="500"/>
+<img src="https://github.com/mcsordi/site-portifolio/blob/master/preview.PNG" height="500"/>
 
 ## Main concepts applied
 
