@@ -4,7 +4,7 @@ this is a my project start with HTML, CSS and JS. The main goal is create a webs
 
 ## Preview
 
-<img scr="https://github.com/mcsordi/site-portifolio/blob/master/preview.PNG" height="500"/>
+<img scr="preview.PNG" height="500"/>
 
 ## Main concepts applied
 
