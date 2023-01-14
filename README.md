@@ -8,10 +8,10 @@ this is a my project start with HTML, CSS and JS. The main goal is create a webs
 
 ## Main concepts applied
 
--Flexbox
--DOM manipulation
--CSS MediaQuery
--Events
+- Flexbox
+- DOM manipulation
+- CSS MediaQuery
+- Events
 
 ## Instructions to Run:
 
