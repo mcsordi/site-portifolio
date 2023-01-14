@@ -6,6 +6,10 @@ this is a my project start with HTML, CSS and JS. The main goal is create a webs
 
 <img src="https://github.com/mcsordi/site-portifolio/blob/master/preview.PNG" height="500"/>
 
+## Live link
+
+https://github.com/mcsordi.github.io/site-portifolio/
+
 ## Main concepts applied
 
 - Flexbox
