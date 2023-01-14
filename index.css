@@ -64,6 +64,7 @@ li {
   align-items: center;
   justify-content: center;
   margin-top: 10%;
+  background-color: #fefefe;
 }
 .display-body {
   display: flex;
@@ -258,15 +259,15 @@ li {
   margin-top: 2%;
 }
 .phone-number-image {
-  width: 15px;
-  height: 16px;
+  width: 20px;
+  height: 20px;
   margin-right: 10px;
   cursor: pointer;
 }
 .email-image {
   width: 30px;
-  height: 16px;
-  background-color: #fefefe;
+  height: 25px;
+  background-color: none;
   margin-right: 5px;
   cursor: pointer;
 }
@@ -312,7 +313,7 @@ li {
 .cursor-pointer-contact {
   cursor: pointer;
 }
-
 a {
   color: #1e1e1e;
+  text-decoration: none;
 }
