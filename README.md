@@ -8,7 +8,7 @@ this is a my project start with HTML, CSS and JS. The main goal is create a webs
 
 ## Live link
 
-https://github.com/mcsordi.github.io/site-portifolio/
+https://mcsordi.github.io/site-portifolio/
 
 ## Main concepts applied
 
