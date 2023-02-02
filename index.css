@@ -147,7 +147,6 @@ li {
   align-items: center;
   height: 90vh;
   width: 100%;
-  background-color: #fefefe;
 }
 .title-navegation {
   font-size: 24px;
@@ -274,7 +273,7 @@ li {
 .image-projetc-cards {
   margin-top: 15px;
   width: 220px;
-  height: 156px;
+  height: 187px;
   border-radius: 20px;
 }
 .image-link-card {
@@ -313,6 +312,7 @@ li {
 .cursor-pointer-contact {
   cursor: pointer;
 }
+
 a {
   color: #1e1e1e;
   text-decoration: none;
